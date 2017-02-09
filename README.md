@@ -1,9 +1,10 @@
 # UCIHARanalysis
 ## Analysis script for UCI Human Activity Recognition (HAR) data: run_analysis.R
-## Description: The script reads in the UCI HAR dataset and outputs a table (outtable.txt) containing the mean values of all the mean and standard deviation readings for each (subject,activity) combination.
+## Description
+The script reads in the UCI HAR dataset and outputs a table (outtable.txt) containing the mean values of all the mean and standard deviation readings for each (subject,activity) combination.
 
-### The original dataset can be found at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-### It is discussed at: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+The original dataset can be found at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+It is discussed at: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Instructions:
 - Uncompress the .zip file
