@@ -18,9 +18,7 @@ README.txt
 - Run the R script
 - The output table is generated in "outtable.txt" in the same directory, with subject and activity listed in the first two columns and the mean values of each mean() and std() of each instrument reading listed for each case.
 
-------------------
 The user is referred to the README.txt file accompanying the dataset for further information. The dataset contact is: activityrecognition@smartlab.ws and is subject to the following license:
-------------------
 
 License:
 ========
